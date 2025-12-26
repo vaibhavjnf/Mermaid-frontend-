@@ -1,0 +1,7 @@
+{
+  "name": "MermaidOS",
+  "description": "A decentralized, encrypted, and privacy-first sovereign digital operating system combining social, utility, and productivity tools in a single untraceable interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
